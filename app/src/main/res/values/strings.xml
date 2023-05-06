@@ -1,3 +1,22 @@
 <resources>
+    //SplashScreen
     <string name="app_name">Formulario</string>
+    <string name="version">Versión 1.0</string>
+    <string name="creador">Edgar Alan Contreras Torres</string>
+
+    //Activity 1
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+
+    <string name="correo">Correo</string>
+    <string name="nocuenta">Número de cuenta</string>
+    <string name="carrera">Carrera</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+
+
+    //
+
+
+
+
 </resources>

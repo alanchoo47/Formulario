@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/eact/AndroidStudioProjects/Formulario2/app/src/main/res/layout/activity_main.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/eact/AndroidStudioProjects/Formulario2/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/eact/AndroidStudioProjects/Formulario2/app/src/main/res/layout/activity_spash_scrren.xml" value="0.1" />
+        <entry key="..\:/Users/eact/AndroidStudioProjects/Formulario2/app/src/main/res/layout/activity_splash.xml" value="0.1" />
       </map>
     </option>
   </component>
